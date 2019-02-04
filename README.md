@@ -1,2 +1,4 @@
 # github-repository-viewer
-Simple Github repository viewer made with React.js.
+## my first React project.
+
+Simple Github repository viewer made with React.js and Axios for http requests.
